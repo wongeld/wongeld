@@ -1,7 +1,8 @@
 # Wongel Daniel 
 
 MSc Artificial Intelligence @ Carnegie Mellon University   
-Computer Vision • Edge AI • AI Systems • NLP • Deep Learning
+Computer Vision • Edge AI • AI Systems • NLP • Deep Learning 
+
 Research-driven engineering for real-world impact
 
 ---
