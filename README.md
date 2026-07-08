@@ -1,6 +1,6 @@
 # Wongel Dawit
 
-**AI Research Graduate Student at Carnegie Mellon University Africa**  
+**AI Research Graduate Student at Carnegie Mellon University**  
 **ML Engineer | Multi-Agent Systems | AI Research**
 
 I am a graduate student in Artificial Intelligence working on machine learning systems across research and applied domains. My work focuses on developing and evaluating AI models for problems in natural language processing, speech recognition, cybersecurity, and intelligent systems.
