@@ -1,78 +1,64 @@
-# Wongel Daniel 
+# Wongel Dawit
 
-MSc Artificial Intelligence @ Carnegie Mellon University   
-Computer Vision • Edge AI • AI Systems • NLP • Deep Learning 
+**AI Research Graduate Student at Carnegie Mellon University Africa**  
+**ML Engineer | Multi-Agent Systems | AI Research**
 
-Research-driven engineering for real-world impact
-
----
-
-## About Me
-I am a first-year MSc Artificial Intelligence student at **Carnegie Mellon University Africa** with a strong background in **full-stack systems, cloud infrastructure, and applied machine learning**. My work focuses on building **end-to-end AI systems** that are not only accurate, but also **deployable in real-world, resource-constrained environments**.
-
-I am particularly interested in:
-- Computer Vision for real-world applications
-- NLP usecase in Africa
-- Edge AI and efficient model deployment
-- AI systems bridging research and production
-- Sustainable and socially impactful AI (especially in Africa)
-
-My long-term goal is to transition from building AI-powered products to contributing **research that advances practical AI deployment** at scale.
+I am a graduate student in Artificial Intelligence working on machine learning systems across research and applied domains. My work focuses on developing and evaluating AI models for problems in natural language processing, speech recognition, cybersecurity, and intelligent systems.
 
 ---
 
-## Featured Research & Projects
+## Research Interests
 
-**Knowledge-Distilled Weed & Crop Detection (Research)**  
-Lightweight object detection models for automated weeding on edge devices.  
-*YOLO • Knowledge Distillation • Edge AI • Agriculture*
+- Multi-Agent Systems and Large Language Models
+- Natural Language Processing and Automatic Speech Recognition
+- Machine Learning for Cybersecurity and Anomaly Detection
+- Efficient and Deployable AI Systems
+- Computer Vision and Deep Learning
 
-**Non-Medical Emergency Transport System**  
-Scalable ride allocation platform with admin-controlled driver distribution.  
-*Next.js • Node.js • PostgreSQL • Secure APIs*
+---
 
-**Andkelem Press – Secure eBook Platform**  
-Cross-platform DRM-enabled eBook system designed for scale and security.  
-*Node.js • Flutter • Secure file delivery • Cloud architecture*
+## Research & Projects
 
-**IoT Patient Monitoring System**  
-Real-time health monitoring using ESP32 sensors and cloud analytics.  
-*AWS • IoT • FastAPI • Predictive analytics*
+### LLM-Based Multi-Agent Systems
+Exploring reliability, collaboration, and failure propagation in systems where multiple AI agents interact to solve complex tasks.
+
+### Industrial Network Anomaly Detection
+Investigating the impact of temporal segmentation strategies on machine learning-based anomaly detection for industrial network traffic.
+
+### Automatic Speech Recognition and NLP
+Developing speech and language models with a focus on low-resource language settings and practical deployment challenges.
+
+### Edge AI for Computer Vision
+Developing lightweight computer vision models using optimization techniques such as knowledge distillation for resource-constrained environments.
 
 ---
 
 ## Technical Focus
 
-**AI & ML**
-- Computer Vision, CNNs, anomaly detection
-- scikit-learn, TensorFlow
-- Model optimization & evaluation
+**Machine Learning**
+- PyTorch, TensorFlow, scikit-learn
+- Deep learning, anomaly detection, model evaluation
 
-**Systems & Backend**
-- FastAPI, Node.js, Express
-- Secure API design, JWT authentication
+**AI Systems**
+- Large Language Models
+- Multi-Agent Systems
+- NLP and Speech Processing
+- Computer Vision
 
-**Cloud & Infrastructure**
-- AWS, GCP, OpenStack
+**Engineering**
+- Python, FastAPI, Node.js
 - Docker, Kubernetes
-
-**Databases**
-- PostgreSQL, MySQL
-
-**Security**
-- Applied cryptography
-- Secure storage & access control
+- AWS, PostgreSQL
 
 ---
 
-## Research Interests
-- Efficient deep learning for edge devices
-- Knowledge distillation & model compression
-- Vision-based automation systems
-- AI for agriculture and healthcare
+## Background
+
+Before focusing on AI research, I worked on building full-stack applications, cloud-based systems, and software solutions. This engineering background continues to influence my approach to designing practical and reliable machine learning systems.
 
 ---
 
-**Contact**
+## Contact
+
 - GitHub: https://github.com/wongeld
 - LinkedIn: https://www.linkedin.com/in/wongel-dawit/
